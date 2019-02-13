@@ -75,8 +75,8 @@ Create a training algorithm for a Support Vector Machine (SVM), that uses Gradie
 * [Pandas](https://pandas.pydata.org/) - Used to manipulate and hold data
 * [Numpy](http://www.numpy.org/) - Used to hold values in vector, matrix format
 
-## Data Provided by UCI Machine Learning Repository
-```
-[https://archive.ics.uci.edu/ml/datasets/Adult](https://archive.ics.uci.edu/ml/datasets/Adult)
-```
+## Data Provided by UCI Machine Learning Repository 
+
+   https://archive.ics.uci.edu/ml/datasets/Adult 
+   
    Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science
